@@ -1,0 +1,36 @@
+
+h1 {
+    text-align: center;
+}
+
+div {
+    background-color:rgb(235, 235, 235);
+    height: 300px;
+    width: 600px;
+}
+
+.a {
+    background-color: lightcoral;
+    display: block;
+    float: left;
+    height: 300px;
+    width: 200px;
+}
+
+.b {
+    background-color: lightgoldenrodyellow;
+    /* display: block; */
+    /* visibility: hidden; */
+    display: none;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+
+.c {
+    background-color: lightseagreen;
+    display: block;
+    float: left;
+    height: 100px;
+    width: 200px;
+}

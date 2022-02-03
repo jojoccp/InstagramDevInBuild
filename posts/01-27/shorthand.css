@@ -1,0 +1,16 @@
+
+/* LONGHAND */
+div {
+    background-color: #cf77cf;
+    background-image: url("img.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+/* SHORTHAND */
+div {
+    background: #cf77cf url("img.png") no-repeat right top;
+}
+
+
+

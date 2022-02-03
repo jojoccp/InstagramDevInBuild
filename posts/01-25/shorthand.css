@@ -1,0 +1,19 @@
+
+
+/* LONGHAND */
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-family: serif;
+}
+
+
+/* SHORTHAND*/
+h1 {
+    font: italic bold 1rem/1.5 serif;
+}
+
+
+
